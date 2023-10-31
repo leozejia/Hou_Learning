@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='false' generator='JOSM'>
+  <bounds minlat="31.2902699" minlon="120.7255020" maxlat="31.3569107" maxlon="120.8089828"/>
   <node id='-25356' lat='31.3350901' lon='120.7553717' />
   <node id='-25357' lat='31.3351323' lon='120.7553685' />
   <node id='-25358' lat='31.3351659' lon='120.7553637' />
